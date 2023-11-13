@@ -15,10 +15,23 @@ python app/my_script.py
 
 python -m app.my_script
 
+
+Install Packages:
+
+```sh
+pip install –r requirements.txt
+```
+
 ## Usage
 
 Run the example script:
 
 ```sh
 python app/my_script.py
+```
+
+Run the unemployment report:
+
+```sh
+python app/unemployment.py
 ```
