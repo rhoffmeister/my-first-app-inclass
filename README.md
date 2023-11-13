@@ -48,6 +48,11 @@ Run the unemployment report:
 python app/unemployment.py
 ```
 
+```sh
+python -m app.unemployment
+```
+
+
 ## Email Sending
 
 You must first follow the [setup instructions](https://github.com/prof-rossetti/intro-to-python/blob/main/notes/python/packages/sendgrid.md) to create an account, verify your account, setup a single sender, and obtain an API Key.
