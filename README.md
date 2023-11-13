@@ -33,7 +33,6 @@ ALPHAVANTAGE_API_KEY="_________"
 
 
 
-
 ## Usage
 
 Run the example script:
