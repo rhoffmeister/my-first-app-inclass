@@ -8,12 +8,7 @@ Create. Activate virtual environment:
 conda create -n my-first-env python=3.10
 
 conda activate my-first-env
-
-When we are in the root dir of the repo:
-
-python app/my_script.py
-
-python -m app.my_script
+```
 
 
 Install Packages:
@@ -29,6 +24,8 @@ Create a ".env" file and paste in the following contents:
 # this is the ".env" file...
 
 ALPHAVANTAGE_API_KEY="_________"
+SENDGRID_API_KEY="_________"
+SENDER_ADDRESS="example@gmail.com"
 ```
 
 
