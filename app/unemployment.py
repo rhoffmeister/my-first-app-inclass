@@ -66,6 +66,7 @@ print("NO MONTHS:", len(this_year))
 #
 # Plot a line chart of unemployment rates over time.
 
+
 dates = [d["date"] for d in data]
 rates = [float(d["value"]) for d in data]
 
