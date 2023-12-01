@@ -11,4 +11,11 @@ python-dotenv
 
 sendgrid==6.5.0 # for sengrid emails package
 
+flask
+
+
 pytest
+
+
+gunicorn
+
